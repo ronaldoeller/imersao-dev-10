@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "Go",
+    "descricao": "Linguagem de programação compilada, focada em performance e concorrência, desenvolvida pelo Google.",
+    "data_criacao": "2009",
+    "link": "https://golang.org/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "concorrência",
+      "compilada"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas que se concentra em segurança, velocidade e concorrência.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "segurança de memória",
+      "performance"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Superset de JavaScript desenvolvido pela Microsoft que adiciona tipagem estática opcional à linguagem.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "tipagem estática"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação estaticamente tipada que roda na JVM e é totalmente interoperável com Java, sendo a linguagem preferida para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "JVM",
+      "Android",
+      "multiplataforma"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação multi-paradigma desenvolvida pela Apple para iOS, macOS, watchOS e tvOS.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "iOS",
+      "Apple"
+    ]
+  },
+  {
+    "nome": "C#",
+    "descricao": "Linguagem de programação orientada a objetos, multiparadigma, desenvolvida pela Microsoft como parte da plataforma .NET.",
+    "data_criacao": "2000",
+    "link": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+    "tags": [
+      "linguagem de programação",
+      ".NET",
+      "backend",
+      "POO"
+    ]
+  },
+  {
+    "nome": "PHP",
+    "descricao": "Linguagem de script de código aberto de uso geral, amplamente utilizada para desenvolvimento web e server-side.",
+    "data_criacao": "1995",
+    "link": "https://www.php.net/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "web",
+      "scripting"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa e eficiente para construir interfaces de usuário interativas, desenvolvida pelo Facebook (Meta).",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "biblioteca JS",
+      "UI/UX"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Framework de desenvolvimento web completo, mantido pelo Google, ideal para Single Page Applications (SPAs) complexas.",
+    "data_criacao": "2010",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "SPA",
+      "TypeScript"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e performance.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "reatividade",
+      "UI"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework React fullstack que permite Server-Side Rendering (SSR) e Static Site Generation (SSG), otimizado para produção.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "fullstack",
+      "React",
+      "SSR"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de tempo de execução (runtime) que permite executar código JavaScript fora do navegador, tipicamente no lado do servidor.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "runtime",
+      "backend",
+      "server-side",
+      "JavaScript"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que facilita a criação, implantação e execução de aplicações usando containers.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "containers",
+      "virtualização",
+      "ferramenta DevOps",
+      "infraestrutura"
+    ]
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Sistema de orquestração de containers de código aberto, originalmente projetado pelo Google, para automatizar a implantação e escalonamento.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "orquestração",
+      "DevOps",
+      "containers",
+      "cloud"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite definir e provisionar infraestrutura usando um arquivo de configuração declarativo.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "IaC",
+      "infraestrutura",
+      "cloud",
+      "DevOps"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless da Amazon Web Services (AWS) que executa código em resposta a eventos.",
+    "data_criacao": "2014",
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud computing",
+      "FaaS",
+      "AWS"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Poderoso sistema de banco de dados objeto-relacional de código aberto, conhecido por sua robustez e conformidade com padrões SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados relacional",
+      "SQL",
+      "open source",
+      "confiável"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos, projetado para escalabilidade e desenvolvimento ágil.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados NoSQL",
+      "documento",
+      "escalabilidade",
+      "flexível"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Armazenamento de estrutura de dados em memória (chave-valor) de código aberto, usado como cache, banco de dados e message broker.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "armazenamento em memória",
+      "cache",
+      "NoSQL",
+      "mensageria"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída de alto desempenho, usada para pipelines de dados e aplicações em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming de eventos",
+      "mensageria",
+      "distribuído",
+      "big data"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, que permite aos clientes solicitar exatamente os dados de que precisam.",
+    "data_criacao": "2015",
+    "link": "https://graphql.org/",
+    "tags": [
+      "linguagem de consulta",
+      "API",
+      "backend",
+      "eficiência"
+    ]
+  },
+  {
+    "nome": "gRPC",
+    "descricao": "Framework de RPC (Remote Procedure Call) de código aberto e alto desempenho, projetado para microserviços e comunicação eficiente.",
+    "data_criacao": "2015",
+    "link": "https://grpc.io/",
+    "tags": [
+      "protocolo",
+      "microserviços",
+      "API",
+      "performance"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Framework compilador que move o trabalho de processamento reativo para a etapa de build, resultando em código de aplicação muito menor e mais rápido.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "compilador",
+      "frontend",
+      "reatividade"
+    ]
+  },
+  {
+    "nome": "Tailwind CSS",
+    "descricao": "Framework CSS 'utility-first' que permite construir designs complexos diretamente em sua marcação HTML.",
+    "data_criacao": "2017",
+    "link": "https://tailwindcss.com/",
+    "tags": [
+      "framework CSS",
+      "utility-first",
+      "frontend",
+      "design"
+    ]
+  },
+  {
+    "nome": "Figma",
+    "descricao": "Ferramenta de design e prototipagem baseada em nuvem, amplamente utilizada para criação de interfaces de usuário e colaboração.",
+    "data_criacao": "2016",
+    "link": "https://www.figma.com/",
+    "tags": [
+      "design",
+      "prototipagem",
+      "UI/UX",
+      "ferramenta"
+    ]
+  }
+]
